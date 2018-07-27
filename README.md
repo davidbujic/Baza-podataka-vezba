@@ -1,6 +1,6 @@
 # Baza-podataka-vezba
 
-Kreiran je primer programa koji dodaje i ispisuje bazu podataka.
+Kreiran je primer programa koji dodaje podatke u bazu podataka i ispisuje ih.
 
 ## Features
 Ovaj projekat ima mogucnost dodavanja i ispisivanja podataka u napravljenu tabelu koja sadrzi bazu podataka. 
