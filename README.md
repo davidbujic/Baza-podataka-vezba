@@ -12,10 +12,10 @@ Ovaj projekat ima mogucnost dodavanja i ispisivanja podataka u napravljenu tabel
 4. ***rad sa bazom podataka***
 
 ## Prerequisites
-Za ovaj projekat su potrebni `GitHub account`, `IDLE Pyhton` koji je IDE za rad i `SQL Server`.
+Za ovaj projekat su potrebni `GitHub account`, `IDLE Pyhton` koji je IDE za rad, `SQL Server` i `SQLite Browser`.
 
 ## Installation
-Projekat se preuzima sa `GitHub-a` ili komandom `git clone https://github.com/davidbujic/Baza-podataka-vezba`. Potrebno je instalirati `SQL Server` pomocu funkcije `$ sudo apt-get install sqlite`, a zatim ga treba ubaciti u fajl `databasetest.py` pomocu komande `import sqlite3`. Baza podataka se nalazi u fajlu `databasetest.db`.
+Projekat se preuzima sa `GitHub-a` ili komandom `git clone https://github.com/davidbujic/Baza-podataka-vezba`. Potrebno je instalirati `SQL Server` pomocu funkcije `$ sudo apt-get install sqlite`, a zatim ga treba ubaciti u fajl `databasetest.py` pomocu komande `import sqlite3`. Baza podataka se nalazi u fajlu `databasetest.db`. Baza podataka je napravljena pomocu `SQLite Browser-a` koji se instalira komandom `sudo apt-get install sqlitebrowser`.
 
 ## Running
 Projekat se pokrece pokretanjem fajla `databasetest.py` u `IDLE Python-u`.
