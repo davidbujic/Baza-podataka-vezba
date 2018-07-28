@@ -26,3 +26,4 @@ Pokretanje testova se vrsi pokretanjem fajla `databasetest.py` u `Shell-u IDLE P
 ## Versions
 1. Osnovna verzija
 2. Dodat interaktivni unos u bazu podataka, izmenjen `databasetest.py` fajl, dodat `databasetest.db` fajl i promenjen readme.md fajl.
+3. Dodati novi records u fajl `databasetest.db` i dodati detalji vezani za `SQLite Browser` u readme.md fajlu.
